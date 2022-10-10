@@ -12,3 +12,5 @@
 
 ### Follow me
 [![LinkedIN](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0000FF)](https://www.linkedin.com/in/daria-mi)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DashutaMD)](https://github.com/anuraghazra/github-readme-stats)
