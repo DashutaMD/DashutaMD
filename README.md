@@ -5,5 +5,5 @@
 ### Languages and tools
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=Jira&logoColor=0000FF)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FFA500)
-
+![GitHub](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB&logoColor=ADD8E6)
 Follow me!
