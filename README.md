@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/113775068/194911002-d9a06bd2-1008-4bc6-9fab-d97f9a5cefbe.png)
 
-## I'm a begginer QA Engeneer
+## I'm a begginer QA Engineer
 
 ### Languages and tools
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=Jira&logoColor=0000FF)
