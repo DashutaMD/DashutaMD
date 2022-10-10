@@ -2,6 +2,7 @@
 
 ## I'm a begginer QA Engeneer
 
-Languages and tools
+### Languages and tools
+![Jira](https://img.shields.io/badge/-JIRA-0000FF)
 
 Follow me!
