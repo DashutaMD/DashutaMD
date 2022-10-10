@@ -8,6 +8,7 @@
 ![GitHub](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB&logoColor=ADD8E6)
 ![MySQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL&logoColor=0000FF)
 
-###Testing Documentation
+### Testing Documentation
 
-Follow me!
+### Follow me
+[![LinkedIN](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0000FF)](www.linkedin.com/in/daria-mi)
