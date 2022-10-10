@@ -3,6 +3,6 @@
 ## I'm a begginer QA Engeneer
 
 ### Languages and tools
-![Jira](https://img.shields.io/badge/-JIRA-0000FF)
+![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=Jira&logoColor=0000FF)
 
 Follow me!
