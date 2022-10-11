@@ -2,6 +2,8 @@
 
 ## I'm a begginer QA Engineer
 
+###![My CV](
+
 ### Languages and tools
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=Jira&logoColor=0000FF)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FFA500)
@@ -9,6 +11,8 @@
 ![MySQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL&logoColor=0000FF)
 
 ### Testing Documentation
+![SQL Queries](https://github.com/DashutaMD/MySQL_samples)
+
 
 ### Follow me
 [![LinkedIN](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0000FF)](https://www.linkedin.com/in/daria-mi)
