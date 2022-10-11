@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/113775068/194911002-d9a06bd2-1008-4bc6-9fab-d97f9a5cefbe.png)
 
-## I'm a begginer QA Engineer
+## I'm a beginner QA Engineer
 
 ###![My CV](
 
@@ -11,8 +11,13 @@
 ![MySQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL&logoColor=0000FF)
 
 ### Testing Documentation
-![SQL Queries](https://github.com/DashutaMD/MySQL_samples)
+[SQL Queries](https://github.com/DashutaMD/MySQL_samples)
 
+[Bug-Reports](
+
+[Postman Collections](
+
+[Test-Suites and Test-Cases](
 
 ### Follow me
 [![LinkedIN](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0000FF)](https://www.linkedin.com/in/daria-mi)
