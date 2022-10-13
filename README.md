@@ -10,6 +10,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FFA500)
 ![GitHub](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB&logoColor=ADD8E6)
 ![MySQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL&logoColor=0000FF)
+![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=0000FF)
+![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=DBeaverL&logoColor=0000FF)
 
 ## Testing Documentation
 [Test-Suites and Test-Cases](
