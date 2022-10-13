@@ -20,7 +20,7 @@
 
 [Bug-Reports](https://github.com/DashutaMD/Bug-Reports)
 
-[Postman Collections](https://www.getpostman.com/collections/666c39988bc984b312d3)
+[Postman Collections](https://github.com/DashutaMD/Postman-Collection)
 
 ## Follow me
 [![LinkedIN](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0000FF)](https://www.linkedin.com/in/daria-mi)
