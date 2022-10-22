@@ -18,7 +18,7 @@
 
 [SQL Queries](https://github.com/DashutaMD/MySQL_samples)
 
-[Bug-Reports](https://github.com/DashutaMD/Bug-Reports)
+[Bug-Reports](https://drive.google.com/drive/folders/1QBqF9Ncfccxv3CfjO-wWIpza2H15FuJP?usp=sharing)
 
 [Postman Collections](https://github.com/DashutaMD/Postman-Collection)
 
