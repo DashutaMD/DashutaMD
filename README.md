@@ -20,7 +20,7 @@
 
 [Bug-Reports](https://drive.google.com/drive/folders/1QBqF9Ncfccxv3CfjO-wWIpza2H15FuJP?usp=sharing)
 
-[Postman Collections](https://github.com/DashutaMD/Postman-Collection)
+[Postman Collections](https://www.postman.com/rookmd/workspace/myspace)
 
 ## Follow me
 [![LinkedIN](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0000FF)](https://www.linkedin.com/in/daria-mi)
