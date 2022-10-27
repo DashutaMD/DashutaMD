@@ -3,7 +3,7 @@
 # I'm a beginner QA Engineer
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1WmH2_5xFF5mREC28DxHYbq9_ic7M4U4j/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1Nl0MVemze_GDPPKxcyBRMQux1NOGDbkA/view?usp=sharing)
 
 ## Languages and tools
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=Jira&logoColor=0000FF)
