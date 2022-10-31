@@ -27,4 +27,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0000FF)](https://t.me/DashutaMD)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DashutaMD&theme=dracula&hide=issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DashutaMD)](https://github.com/anuraghazra/github-readme-stats)
